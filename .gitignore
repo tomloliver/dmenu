@@ -1,0 +1,7 @@
+# out files
+*.o
+# dmenu exec files
+dmenu
+stest
+# config.h file
+config.h
